@@ -1,7 +1,7 @@
 
 Write-Host "          _____________________________________________________________"
 Write-Host "         /                                                            /"    
-Write-Host "        /     RDS-CleanUp - Script                                   /"
+Write-Host "        /                   RDS-CleanUp - Script                     /"
 Write-Host "       /____________________________________________________________/"
 
 Write-Host " " 
